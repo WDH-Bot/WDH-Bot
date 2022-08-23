@@ -1,1 +1,1 @@
-# WDH-Bot
+# WDH Bot
