@@ -1,2 +1,2 @@
 # WDH-Bot
-### Run by [WilliamDavidHarrison](https://github.com/williamdavidharrison)
+Run by [WilliamDavidHarrison](https://github.com/williamdavidharrison)
