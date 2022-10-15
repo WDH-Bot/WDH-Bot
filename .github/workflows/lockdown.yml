@@ -1,8 +1,6 @@
 name: "Lockdown"
 
 on:
-  issues:
-    types: opened
   pull_request_target:
     types: opened
   schedule:
@@ -18,5 +16,4 @@ jobs:
     steps:
       - uses: dessant/repo-lockdown@v2
         with:
-          issue-comment: "🔒 Issues have been locked on this repository."
           pr-comment: "🔒 Pull requests have been locked on this repository."
